@@ -16,3 +16,6 @@ function commun:triggers/autres/detect
 
 # Outils
 function commun:outils/jeu/refresh
+
+# Menu
+function commun:gui/menu
