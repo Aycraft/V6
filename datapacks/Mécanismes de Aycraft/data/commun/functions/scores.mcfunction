@@ -72,8 +72,8 @@ scoreboard objectives add commun_RotY dummy
 # commun_Random : Supporte le tirage aléatoire d'une valeur dans un intervalle donné en argument
 scoreboard objectives add commun_Random dummy
 
+# commun_gui_page : Supporte la valeur de la page de menu chargée par un joueur pour coordonner le chargement et le système de celle-ci
+scoreboard objectives add commun_gui_page dummy
 
-
-
-
-
+# commun_gui_id : Support la valeur de l'emplacement de chaques items chargés simultanéments dans une page de menu
+scoreboard objectives add commun_gui_id dummy
